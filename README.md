@@ -1,6 +1,6 @@
 # Introduction
 
-This is a repository created by Rachith
+This is a repository created by *Rachith*
 
 ## Usage
 
